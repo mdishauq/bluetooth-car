@@ -1,10 +1,11 @@
 # Bluetooth Car
 
-This project is a software system designed to control a car via Bluetooth communication. It allows users to send commands to the car using a mobile app or other Bluetooth-enabled devices.
+This project is a software system designed to control a car via Bluetooth communication. It allows users to send commands to the car using a mobile app or other Bluetooth-enabled devices.I kind of wanted to built a car that has every features for controlling.
 
 ## Features
 
 - Remote control of the car via Bluetooth.
+- This car can also be controlled using voice and has autonomous driving using ultrasonic sensor
 - Support for basic car movements (e.g., forward, backward, left, right).
 - Easy-to-extend architecture for adding new features.
 
