@@ -38,7 +38,7 @@ This project is a software system designed to control a car via Bluetooth commun
 
 Below is a demonstration of the Bluetooth Car in action:
 
-![Bluetooth Car Demo](assets/demo.mp4)
+![Bluetooth Car Demo](assets/DEMO.mp4)
 
 ## Contributing
 
