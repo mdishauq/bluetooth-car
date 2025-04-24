@@ -1,12 +1,10 @@
 /*obstacle avoiding,bluetooth control,voice control robot car.
    https://srituhobby.com
 */
-#include <Servo.h>
-#include <AFMotor.
-  M1.run(BACKWARD);
-  M1.run(BACKWARD);h>
+#include <Servo.h> //library that are used for this project
+#include <AFMotor.h>
 
-#define Echo A0
+#define Echo A0 //pins config for the peripherals(servo,motor,ultrasonic)
 #define Trig A1
 #define motor 10
 #define Speed 170
